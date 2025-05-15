@@ -70,9 +70,9 @@
         "key": "formData.find.limit.data"
       }
     ],
-    "executeOnLoad": true,
     "name": "Find_movies1",
     "pageId": "Page2",
+    "runBehaviour": "ON_PAGE_LOAD",
     "userSetOnLoad": false
   }
 }
