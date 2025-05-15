@@ -22,9 +22,9 @@
       "name": "Snowflake",
       "pluginId": "snowflake-plugin"
     },
-    "executeOnLoad": false,
     "name": "InsertQuery",
     "pageId": "USERS",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

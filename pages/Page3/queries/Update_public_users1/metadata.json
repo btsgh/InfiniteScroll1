@@ -27,9 +27,9 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": false,
     "name": "Update_public_users1",
     "pageId": "Page3",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

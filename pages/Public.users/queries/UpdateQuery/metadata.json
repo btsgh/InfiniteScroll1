@@ -22,9 +22,9 @@
       "name": "Users",
       "pluginId": "postgres-plugin"
     },
-    "executeOnLoad": false,
     "name": "UpdateQuery",
     "pageId": "Public.users",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }
