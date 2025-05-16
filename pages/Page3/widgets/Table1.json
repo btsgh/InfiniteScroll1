@@ -5,7 +5,7 @@
   "borderColor": "#E0DEDE",
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
   "borderWidth": "1",
-  "bottomRow": 41,
+  "bottomRow": 40,
   "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
   "cachedTableData": {},
   "canFreezeColumn": true,
@@ -632,11 +632,11 @@
   "showInlineEditingOptionDropdown": true,
   "tableData": "{{Find_movies1.data}}",
   "textSize": "0.875rem",
-  "topRow": 3,
+  "topRow": 2,
   "totalRecordsCount": "{{Total_record_movies1.data.n}}",
   "type": "TABLE_WIDGET_V2",
   "version": 2,
   "verticalAlignment": "CENTER",
-  "widgetId": "18se2xsxi5",
+  "widgetId": "fbzcnrcugk",
   "widgetName": "Table1"
 }
